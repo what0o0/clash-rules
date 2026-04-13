@@ -1,0 +1,13 @@
+payload:
+  - PROCESS-NAME,frpc
+  - PROCESS-NAME,wemeetapp.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,TSVNCache.exe
+  - PROCESS-NAME,svn.exe
+  - PROCESS-NAME,QQEX.exe
+  - PROCESS-NAME,ima.copilot.exe
+  - PROCESS-NAME,DingTalk.exe
+  - PROCESS-NAME,ackpluginx.exe
+  - PROCESS-NAME,Apifox.exe
+  - PROCESS-NAME,OUTLOOK.EXE
