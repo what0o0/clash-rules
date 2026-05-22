@@ -12,3 +12,5 @@ payload:
   - PROCESS-NAME,Apifox.exe
   - PROCESS-NAME,OUTLOOK.EXE
   - PROCESS-NAME,OneDrive.Sync.Service.exe
+  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,OneDrive.App.exe
